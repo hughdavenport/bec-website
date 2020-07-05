@@ -4,3 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+==Section Header==
+Blah blah
+===Subsection Header===
+Blah balh
+
+==Contact==
+blah blah
+
+Or could link to a seperate contact page [here](contact)
