@@ -26,6 +26,6 @@ I've worked with men, women, youth and children 1:1 from varying backgrounds. Tr
 
 Bec Duff
 
-becduff@xtra.co.nz
+[becduff@xtra.co.nz](mailto:becduff@xtra.co.nz?subject=Ripple%20Effects%20Website%20Enquiry)
 
-027 367 9780
+[027 367 9780](tel:+64273679780)
