@@ -1,3 +1,9 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
 Are you suffering from the effects of grief, trauma (past or present), abuse, anxiety or depression?
 
 Do you need a safe space where your thoughts, feelings and experiences can be heard?
