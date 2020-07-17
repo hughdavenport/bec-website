@@ -14,8 +14,14 @@ If you answered 'yes' to any of the above, then I can help you on your journey o
 
 Let us discover your ripple effects together, and find your stones that cause them.
 
+**About me**
+
+Raised in Nelson, I returned to my roots in 2010, then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of technology and Nelson Marlborough Institute of technology. I'm currently upskilling through the New Zealand Association of Psychotherapists (NZAP) to become a registered Psychotherapist.
+
+I've worked with men, women, youth and children 1:1 from varying backgrounds. Trauma work has been a main field of interest, and I also co-facilited an art therapy group for women during 2013/14/15 which encompassed expression of freedom and the inner or traumatized child.
+
 **Contact**
 
-blah blah
-
-Or could link to a seperate contact page [here](contact)
+Bec Duff
+becduff@xtra.co.nz
+027 367 9780
