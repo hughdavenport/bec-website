@@ -10,9 +10,9 @@ Do you find that you're often having intense responses to certain situations, bu
 If you answered 'yes' to any of the above, then I can help you on your journey of healing.
 Let us discover your ripple effects together, and find your stones that cause them.
 
-**About me**
-
 ![A portrait of me](/assets/portrait.jpg)
+
+**About me**
 
 I was raised in Nelson, and after travelling I returned to my roots in 2010. I then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of Technology and Nelson Marlborough Institute of Technology. I'm currently upskilling through the New Zealand Association of Psychotherapists (NZAP) to become a registered psychotherapist.
 
