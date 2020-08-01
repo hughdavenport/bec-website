@@ -24,8 +24,10 @@ img.title {
 
 #main {
   margin-top: inherit;
+  background-image: url({{ '/assets/water-drop.svg' | relative_url }})
 }
 
 header {
   background-color: white;
+  padding-bottom: 20px;
 }

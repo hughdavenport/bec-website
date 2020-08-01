@@ -10,7 +10,7 @@ Do you find that you're often having intense responses to certain situations, bu
 If you answered 'yes' to any of the above, then I can help you on your journey of healing.  
 Let us discover your ripple effects together, and find your stones that cause them.
 
-![A portrait of me](/assets/portrait.png)
+![A portrait of me](/assets/portrait.jpg)
 
 **About me**
 
