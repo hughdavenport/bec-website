@@ -20,11 +20,16 @@ img.title {
 #container {
   background: inherit;
   margin-top: -15px;
+  background-image: url({{ '/assets/water-drop.svg' | relative_url }})
+  background-repeat: no-repeat;
+  background-position-y: 590px;
 }
 
 #main {
   margin-top: inherit;
-  background-image: url({{ '/assets/water-drop.svg' | relative_url }})
+  background-color: inherit;
+  background-image: linear-gradient(90deg, rgba(82,156,255,1) 0%, rgba(232,232,236,1) 44%, rgba(255,255,255,1) 100%);
+
 }
 
 header {
