@@ -20,7 +20,7 @@ img.title {
 #container {
   background: inherit;
   margin-top: -15px;
-  background-image: url({{ '/assets/water-drop.svg' | relative_url }})
+  background-image: url({{ '/assets/water-drop.svg' | relative_url }});
   background-repeat: no-repeat;
   background-position-y: 590px;
 }
