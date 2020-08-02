@@ -37,10 +37,15 @@ img {
   //background-color: #fff;
 
   // Our modifications
-  margin-top: inherit;
+  //margin-top: inherit;
   background-image: url({{ '/assets/water-drop.svg' | relative_url }});
   background-repeat: no-repeat;
   background-position-y: 590px;
+  color: white;
+}
+
+#main_content > article > p:first-child {
+  color: black;
 }
 
 header {
