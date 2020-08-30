@@ -14,7 +14,7 @@ Let us discover your ripple effects together, and find your stones that cause th
 
 **About me**
 
-I was raised in Nelson, and after travelling I returned to my roots in 2010. I then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of Technology and Nelson Marlborough Institute of Technology. I'm currently upskilling through the New Zealand Association of Psychotherapists (NZAP) to become a registered psychotherapist.
+I was raised in Nelson, and after perusing other endeavours I returned to my roots in 2010. I then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of Technology and Nelson Marlborough Institute of Technology. I'm currently upskilling through the New Zealand Association of Psychotherapists (NZAP) to become a registered psychotherapist.
 
 I've worked with men, women, youth and children one on one from varying backgrounds. Trauma work has been a main field of my interest. I have co-facilited an art therapy group for women which encompassed expression of freedom and the inner or traumatized child.
 
