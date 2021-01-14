@@ -6,7 +6,8 @@ layout: default
 ---
 Are you suffering from the effects of grief, trauma (past or present), abuse, anxiety or depression?  
 Do you need a safe space where your thoughts, feelings and experiences can be heard?  
-Do you find that you're often having intense responses to certain situations, but you're not sure why?  
+Do you find that you're often having intense responses to certain situations, but you're not sure why?
+Are you struggling with communication and unmet needs within your relationship?
 If you answered 'yes' to any of the above, then I can help you on your journey of healing.  
 Let us discover your ripple effects together, and find your stones that cause them.
 
@@ -14,9 +15,10 @@ Let us discover your ripple effects together, and find your stones that cause th
 
 **About me**
 
-I was raised in Nelson, and after perusing other endeavours I returned to my roots in 2010. I then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of Technology and Nelson Marlborough Institute of Technology. I'm currently upskilling through the New Zealand Association of Psychotherapists (NZAP) to become a registered psychotherapist.
+I was raised in Nelson, and after persuing other endeavours I returned to my roots in 2010. I then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of Technology and Nelson Marlborough Institute of Technology. I'm currently persuing the Advanced Clinical Practice certificate (Masters equivalent) through the New Zealand Association of Psychotherapists (NZAP) to become a registered psychotherapist.
 
-I've worked with men, women, youth and children one on one from varying backgrounds. Trauma work has been a main field of my interest. I have co-facilited an art therapy group for women which encompassed expression of freedom and the inner or traumatized child.
+I use psychodynamic psychotherapy with individuals, which looks at the bigger picture of lived experiences that create our innate responses (both physical and emotional); this way of healing seeks to discover root causes and to heal through each layer.
+I use Imago therapy with couples, which is a unique way of working as the focus is on the space between: the relationship itself, rather than on each individual. Imago teaches a new way to communicate, understand and build one another up within the relationship and creates deeper bonds for long lasting love.
 
 **Contact**
 
