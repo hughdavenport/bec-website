@@ -27,3 +27,9 @@ Bec Duff
 [becduff@xtra.co.nz](mailto:becduff@xtra.co.nz?subject=Ripple%20Effects%20Website%20Enquiry)
 
 [027 367 9780](tel:+64273679780)
+
+**Fees**
+
+Individuals $80 per session 
+Couples $120 per session
+Groups POA
