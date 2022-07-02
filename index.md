@@ -15,7 +15,7 @@ Let us discover your ripple effects together, and find your stones that cause th
 
 **About me**
 
-I was raised in Nelson, and after persuing other endeavours I returned to my roots in 2010. I then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of Technology and Nelson Marlborough Institute of Technology. I'm currently persuing the Advanced Clinical Practice certificate (Masters equivalent) through the New Zealand Association of Psychotherapists (NZAP) to become a registered psychotherapist.
+I was raised in Nelson, and after persuing other endeavours I returned to my roots in 2010. I then completed a Bachelor of Applied Social Science (Counselling) in 2015 through Waikato Institute of Technology and Nelson Marlborough Institute of Technology.
 
 I use psychodynamic psychotherapy with individuals, which looks at the bigger picture of lived experiences that create our innate responses (both physical and emotional); this way of healing seeks to discover root causes and to heal through each layer.
 I use Imago therapy with couples, which is a unique way of working as the focus is on the space between: the relationship itself, rather than on each individual. Imago teaches a new way to communicate, understand and build one another up within the relationship and creates deeper bonds for long lasting love.
